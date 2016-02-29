@@ -1,12 +1,16 @@
 # ToDo App
 
-ToDo App Features:
+### ToDo App Features:
 
   - Add Projects
   - Add Task and owners and mark as done
   - Persistance on local and server
+
+### Structure:
+ - TodoApp : Ionic App
+ - node-api : API
   
-Run:
+### Run:
  - mongodb
  - node ./node-api/app.js
 
