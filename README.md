@@ -24,7 +24,7 @@ Dillinger uses a number of open source projects to work properly:
 
 * [Ionic] - Advanced HTML5 Hybrid Mobile App Framework!
 * [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Express] - fast node.js network app framework
 * [mongodb] - next-generation database
 * [mongoose] - Mongoose ODM
 
