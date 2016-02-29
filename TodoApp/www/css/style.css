@@ -1,0 +1,11 @@
+.task-complete{
+    text-decoration: line-through;
+}
+
+.task-todo{
+    text-decoration: none;
+}
+
+.owner{
+    font-size: x-small;
+}
